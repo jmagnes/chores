@@ -1,1 +1,4 @@
-
+[
+  { "id": 1, "name": "Dishwashing", "points": 10, "assignedTo": null, "completed": false },
+  { "id": 2, "name": "Vacuuming", "points": 15, "assignedTo": null, "completed": false }
+]
